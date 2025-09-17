@@ -35,3 +35,6 @@
 <p align="center">
   <img src="https://dcbadge.limes.pink/api/shield/737271179668357160"/>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducho2004)](https://github.com/anuraghazra/github-readme-stats)
+
+
