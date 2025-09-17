@@ -1,11 +1,36 @@
-## Hello/안녕하세요/Xin Chào
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: tôi có thể tìm tất cả như 1 cuôn bách khoa toàn thư !?
-                        ------When I use it a lot------
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-                          ------you can find me------
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-[Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
+## Hello/안녕하세요/Xin Chào  
+
+- 😁 Pronouns: he/his  
+- ⚡ Fun fact: tôi có thể tìm tất cả như 1 cuốn bách khoa toàn thư !?  
+
+---
+
+<p align="center"><b>When I use it a lot</b></p>
+
+<p align="center">
+  <a href="https://chat.openai.com/">
+    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://www.messenger.com/">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
+  </a>
+  <a href="https://zoom.us/">
+    <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><b>You can find me</b></p>
+
+<p align="center">
+  <a href="https://reddit.com/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+  <a href="https://www.samsung.com/">
+    <img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
+  </a>
+</p>
