@@ -34,3 +34,15 @@
     <img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
   </a>
 </p>
+---
+
+<p align="center"><b>can you connect me </b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+</p>
+
+---
