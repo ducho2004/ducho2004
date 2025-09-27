@@ -32,10 +32,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats Card" height="180px" src="https://github-readme-stats.vercel.app/api?username=ducho2004&show_icons=true&theme=tokyonight"/>
+    <img alt="GitHub Stats Card" height="180px" src="https://github-readme-stats.vercel.app/api?username=HoNgocDuc212004212&show_icons=true&theme=tokyonight"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages Card" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducho2004&layout=compact&theme=tokyonight"/>
+    <img alt="Top Languages Card" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoNgocDuc212004212&layout=compact&theme=tokyonight"/>
   </a>
 </p>
 
